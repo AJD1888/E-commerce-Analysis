@@ -22,9 +22,11 @@ Firstly, I aimed to compare returning customers with first time customers. Four 
 
 The findings suggest that first-time customers generate slightly higher profit margins and average profit per sale, while returning customers contribute substantially more profit overall. It is important to note that this dataset contains a much larger number of returning customers comapared to non returning customers, hence the massive difference in total profits generated. However, with the average profit per customer being approximately five times higher, this does suggest that repeat purchasing plays a crucial roles in driving profits for the business.
 
-To give a more complete analysis of customer behaviour, two other metrics were looked at. These were the following:
+To investigate customer behaviour, two other metrics were looked at. These were the following:
 
-- Average Order Frequency: 
-- Average Order Value:
+- Average Order Frequency Per Customer: Returning customers had a significantly higher average order frequency per customer, which was 5.61 compared to just 1.0 for first-time customers.
+- Average Order Value Per Customer: The average order value of first-time customers was $1303.76, which was slightly higher than the $1282.45 for returning customers.
+
+These findings suggest that while returning customers will clearly have a much higher purchasing frequency as they are coming back to the business to make another purchase, on average, first time customers tend to spend slightly more on one individual order.
 
  
