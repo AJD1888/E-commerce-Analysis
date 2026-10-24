@@ -25,8 +25,13 @@ The findings suggest that first-time customers generate slightly higher profit m
 To investigate customer behaviour, two other metrics were looked at. These were the following:
 
 - Average Order Frequency Per Customer: Returning customers had a significantly higher average order frequency per customer, which was 5.61 compared to just 1.0 for first-time customers.
-- Average Order Value Per Customer: The average order value of first-time customers was $1303.76, which was slightly higher than the $1282.45 for returning customers.
+- Average Order Value : The average order value of first-time customers was $1303.76, which was slightly higher than the $1282.45 for returning customers.
 
 These findings suggest that while returning customers will clearly have a much higher purchasing frequency as they are coming back to the business to make another purchase, on average, first time customers tend to spend slightly more on one individual order.
 
+Moving on to the second research question, pearsons correlation was used to investigate the relationship between the discount amount and net sales/profit margin. Starting with discount amount and net sales, these two variables had a correlation coefficient of 0.53, suggesting a moderately positive relationship. This was the visualised with a scatter plot, which shows that despite some unusually large observations of net sales for lower discount amounts and a large cluster between discount amounts 0 - 4000, increasing the discount amount tends to be associated with higher net sales.
+
+Furthermore, the correlation coefficient was then calculated for discount amount and profit margin percentage. This returned a value of -0.6, and again a scatter plot was used to visualise the realtionship. The scatter plot supports this finding, with higher discount amoints generally being associated with lower profit margins. However, ther is considerable variation across orders, as factors such as order size could also contribute to the observed pattern.
+
+It is important to note in both cases that the relationships do not establish that discounts alone cause higher net sales and lower profit margins. 
  
